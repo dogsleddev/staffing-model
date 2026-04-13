@@ -1,0 +1,232 @@
+name,position,department,employeeType,annualSalary,hourlyRate,hoursPerWeek,startDate,termDate,billRate,utilizationRate,status,notes
+Aiden Jones,Architect,Design Studio A,salary,91000,0,40,2026-03-26,,180,78%,active,Promotion pending Q3
+Stephen Alexander,Project Architect,Design Studio A,salary,116000,0,40,2021-11-22,,205,78%,active,Eligible for bonus
+Scott Bell,Senior Project Architect,Design Studio C,salary,135000,0,40,2026-03-26,,230,78%,active,
+Donna Mitchell,Associate Principal,Design Studio B,salary,173000,0,40,2026-03-18,,305,68%,active,Eligible for bonus
+Michael Hernandez,Project Architect,Design Studio B,salary,110000,0,40,2024-06-28,,175,84%,active,LEED AP
+Amy Wright,Senior Project Manager,Project Management,salary,126000,0,40,2026-01-07,,260,81%,active,Promotion pending Q3
+Lisa Bryant,Intern Architect,Design Studio B,salary,64000,0,40,2021-07-30,,105,84%,active,Part-time arrangement
+Lucas Parker,Junior Architect,Design Studio A,salary,66000,0,40,2026-11-15,,140,80%,planned,AIA member
+Nathan Kelly,Associate Principal,Design Studio A,salary,173000,0,40,2026-07-13,,270,62%,planned,
+Kevin King,Director of Design,Design Studio A,salary,158000,0,40,2026-05-17,,290,68%,active,PMP certified
+Heather King,Senior Project Architect,Design Studio A,salary,128000,0,40,2025-11-06,,215,72%,active,
+Megan Rogers,Architect,Design Studio B,salary,88000,0,40,2025-01-07,,180,82%,active,Promotion pending Q3
+Victoria Young,Marketing Manager,Marketing & BD,salary,90000,0,40,2021-04-14,,0,,active,Promotion pending Q3
+George Alexander,Executive Assistant,Administration,salary,68000,0,40,2026-05-22,,0,,active,LEED AP
+Liam Jones,Intern Architect,Design Studio A,salary,54000,0,40,2025-06-03,,105,83%,active,Licensed in 3 states
+Alice Reynolds,Receptionist/Admin Coord,Administration,salary,49000,0,40,2024-12-23,,0,,active,Remote employee
+Kyle Flores,Architectural Designer,Design Studio A,salary,62000,0,40,2026-06-01,,130,80%,active,Part-time arrangement
+Brenda Jenkins,Director of PM,Project Management,salary,168000,0,40,2026-07-09,,275,66%,planned,Eligible for bonus
+Joyce Garcia,Architect,Design Studio B,salary,84000,0,40,2022-10-22,,165,81%,active,Eligible for bonus
+Isabella Hughes,Junior Architect,Design Studio C,salary,78000,0,40,2021-01-16,,140,77%,active,Promotion pending Q3
+Charles Taylor,Executive Assistant,Administration,salary,65000,0,40,2023-12-13,,0,,active,Promotion pending Q3
+Sandra Bryant,Junior Architect,Design Studio B,salary,66000,0,40,2025-10-02,,135,83%,active,Remote employee
+Sharon Watson,IT Manager,IT,salary,105000,0,40,2025-02-06,2026-09-16,0,,termed,Eligible for bonus
+Logan Sanchez,Managing Principal,Executive,salary,209000,0,40,2021-07-11,,380,53%,active,
+Carolyn James,Architect,Design Studio C,salary,94000,0,40,2023-02-27,,155,77%,active,LEED AP
+Jacob Wright,Project Architect,Design Studio A,salary,101000,0,40,2022-05-05,,205,73%,active,Part-time arrangement
+Donna Hughes,Project Architect,Design Studio A,salary,97000,0,40,2026-01-21,,185,75%,active,Licensed in 3 states
+Nicholas Miller,Intern Architect,Design Studio B,salary,55000,0,40,2023-05-08,,95,83%,active,
+Pamela Long,CAD Technician,BIM & Technology,hourly,0,30.83,35,2024-02-25,,125,74%,active,LEED AP
+Sandra Roberts,Senior Project Manager,Project Management,salary,130000,0,40,2025-05-30,,240,77%,active,PMP certified
+Helen Phillips,Director of PM,Project Management,salary,158000,0,40,2022-03-10,,305,74%,active,Eligible for bonus
+Katherine Diaz,Architect,Design Studio C,salary,83000,0,40,2026-04-24,,170,84%,active,
+Ryan Campbell,Project Manager,Project Management,salary,104000,0,40,2026-06-02,,185,83%,active,Part-time arrangement
+Jacqueline Coleman,Project Architect,Design Studio A,salary,116000,0,40,2025-06-19,,185,81%,active,Part-time arrangement
+Nicole Wallace,Project Architect,Design Studio B,salary,115000,0,40,2024-04-27,,215,75%,active,Licensed in 3 states
+Mason Lopez,Managing Principal,Executive,salary,211000,0,40,2022-07-18,,380,47%,active,
+James Hill,Senior Project Architect,Design Studio C,salary,135000,0,40,2021-12-23,,245,74%,active,PMP certified
+Deborah Lewis,Intern Architect,Design Studio A,salary,55000,0,40,2022-09-25,,95,78%,active,On leave Q2
+Katherine Coleman,BIM Coordinator,BIM & Technology,salary,90000,0,40,2026-02-16,,150,73%,active,
+Laura Rodriguez,Director of PM,Project Management,salary,169000,0,40,2023-06-17,,290,71%,active,Eligible for bonus
+Jennifer Bryant,Architect,Design Studio A,salary,98000,0,40,2026-03-24,,165,75%,active,Eligible for bonus
+Victoria Jenkins,Senior Project Architect,Design Studio C,salary,138000,0,40,2023-04-05,,230,77%,active,Eligible for bonus
+Douglas Jones,BIM Coordinator,BIM & Technology,salary,77000,0,40,2025-06-29,,130,71%,active,LEED AP
+Andrew Green,Accounting Specialist,Finance,salary,66000,0,40,2022-02-22,,0,,active,LEED AP
+Zachary Robinson,Intern Architect,Design Studio A,salary,59000,0,40,2022-05-02,,110,78%,active,Licensed in 3 states
+Mark Nguyen,Associate Principal,Design Studio B,salary,170000,0,40,2024-01-05,,280,72%,active,Remote employee
+Linda Morgan,Senior Accountant,Finance,salary,99000,0,40,2022-03-08,,0,,active,Promotion pending Q3
+Kelly Peterson,Senior Project Manager,Project Management,salary,125000,0,40,2022-06-21,,260,75%,active,Licensed in 3 states
+Carolyn Wallace,Managing Principal,Executive,salary,217000,0,40,2022-03-17,,365,46%,active,
+Sandra Russell,Project Architect,Design Studio B,salary,115000,0,40,2026-04-30,,190,82%,active,
+Evelyn Hughes,Project Architect,Design Studio B,salary,106000,0,40,2025-10-06,,205,73%,active,Remote employee
+Walter Williams,Project Architect,Design Studio B,salary,101000,0,40,2026-04-08,,200,75%,active,
+Evelyn Hall,Senior Project Manager,Project Management,salary,121000,0,40,2023-02-23,,270,76%,active,Eligible for bonus
+Ella Martin,Senior Project Architect,Design Studio B,salary,124000,0,40,2026-02-04,,215,81%,active,Licensed in 3 states
+Alexander West,Junior Architect,Design Studio B,salary,64000,0,40,2021-09-24,,135,82%,active,Promotion pending Q3
+Nancy Coleman,Junior Architect,Design Studio A,salary,71000,0,40,2023-03-27,,125,85%,active,On leave Q2
+Nathan Lewis,Project Architect,Design Studio A,salary,97000,0,40,2022-05-15,,215,81%,active,
+William Edwards,Interior Designer,Interiors,salary,77000,0,40,2024-09-30,,125,79%,active,Licensed in 3 states
+Terry Martin,Architectural Designer,Design Studio A,salary,75000,0,40,2026-01-11,,120,78%,active,On leave Q2
+Deborah Flores,Project Architect,Design Studio A,salary,112000,0,40,2024-09-07,2026-09-01,180,78%,termed,AIA member
+William Flores,Architect,Design Studio C,salary,82000,0,40,2026-06-18,,155,84%,active,AIA member
+Ashley Wright,Marketing Manager,Marketing & BD,salary,88000,0,40,2022-10-16,,0,,active,On leave Q2
+Gregory Lewis,Interior Designer,Interiors,salary,78000,0,40,2024-04-21,,155,76%,active,Part-time arrangement
+Susan Perry,Senior Project Architect,Design Studio A,salary,127000,0,40,2026-10-19,,235,75%,planned,Licensed in 3 states
+Benjamin Harris,Business Dev Coordinator,Marketing & BD,salary,74000,0,40,2026-03-25,,0,,active,Licensed in 3 states
+Lauren Lopez,CAD Technician,BIM & Technology,salary,59000,0,40,2025-10-13,,120,72%,active,Licensed in 3 states
+Nathan Hernandez,BIM Manager,BIM & Technology,salary,105000,0,40,2025-06-21,,170,78%,active,Licensed in 3 states
+Lauren Perry,Project Architect,Design Studio A,salary,112000,0,40,2024-04-02,,215,76%,active,On leave Q2
+Judith Jenkins,Project Architect,Design Studio B,salary,93000,0,40,2024-09-10,2026-04-13,215,74%,termed,
+Adam Miller,Intern Architect,Design Studio B,hourly,0,38.5,32,2025-08-29,,105,84%,active,
+Kyle Ellis,Junior Architect,Design Studio A,salary,73000,0,40,2025-12-16,,130,81%,active,AIA member
+Elizabeth Coleman,Principal Architect,Executive,salary,199000,0,40,2025-12-19,,395,53%,active,
+Amy Anderson,CAD Technician,BIM & Technology,salary,64000,0,40,2023-12-21,,115,73%,active,Part-time arrangement
+Jack Murphy,Office Manager,Administration,salary,80000,0,40,2026-01-07,,0,,active,PMP certified
+Heather Evans,Architectural Designer,Design Studio A,salary,77000,0,40,2026-05-15,,120,79%,active,Part-time arrangement
+Lisa Richardson,Intern Architect,Design Studio C,hourly,0,36.47,40,2024-06-13,,105,77%,active,AIA member
+Brian Graham,Intern Architect,Design Studio C,salary,54000,0,40,2026-03-27,,90,79%,active,Remote employee
+Helen Harrison,Junior Architect,Design Studio C,salary,63000,0,40,2023-05-29,,130,75%,active,Part-time arrangement
+Helen Turner,Office Manager,Administration,salary,71000,0,40,2024-06-07,,0,,active,
+Amanda Bell,Associate Principal,Design Studio B,salary,174000,0,40,2025-01-18,,310,64%,active,PMP certified
+Pamela Stewart,Architect,Design Studio A,salary,83000,0,40,2022-06-29,,155,76%,active,Part-time arrangement
+Nicholas Morris,Architect,Design Studio C,salary,97000,0,40,2026-09-27,,170,81%,planned,Promotion pending Q3
+John Allen,Intern Architect,Design Studio B,hourly,0,46.21,35,2025-04-28,2026-03-13,105,81%,termed,
+Anthony Rivera,Senior Project Manager,Project Management,salary,121000,0,40,2023-01-17,,235,73%,active,Eligible for bonus
+Karen Lee,Architect,Design Studio A,salary,81000,0,40,2024-09-14,,160,77%,active,PMP certified
+Timothy Bennett,Architect,Design Studio C,salary,86000,0,40,2022-08-10,,190,83%,active,Eligible for bonus
+Edward Rodriguez,Junior Architect,Design Studio A,salary,64000,0,40,2021-02-13,,135,77%,active,
+Margaret Bryant,Architect,Design Studio C,salary,87000,0,40,2022-04-26,,165,82%,active,Promotion pending Q3
+Ella Williams,Intern Architect,Design Studio C,salary,61000,0,40,2026-11-12,,105,83%,planned,PMP certified
+Larry Rogers,Project Manager,Project Management,salary,120000,0,40,2025-11-14,,210,73%,active,
+Walter Torres,IT Manager,IT,salary,110000,0,40,2023-10-11,,0,,active,AIA member
+Andrew Harrison,Architectural Designer,Design Studio A,salary,65000,0,40,2026-06-04,,130,76%,active,AIA member
+Jeremy West,Architect,Design Studio B,salary,89000,0,40,2025-10-11,,185,79%,active,Remote employee
+Karen Jenkins,BIM Coordinator,BIM & Technology,salary,86000,0,40,2026-06-07,,145,76%,active,
+Benjamin Davis,Senior Project Architect,Design Studio A,salary,134000,0,40,2021-04-30,,255,77%,active,Licensed in 3 states
+Gregory White,BIM Manager,BIM & Technology,salary,101000,0,40,2025-12-27,,185,79%,active,Promotion pending Q3
+Joshua Morgan,Architect,Design Studio B,salary,90000,0,40,2025-07-20,,175,85%,active,AIA member
+Brian Sanders,Interior Designer,Interiors,salary,73000,0,40,2021-10-30,,125,76%,active,Eligible for bonus
+Amy Watson,Senior Project Architect,Design Studio A,salary,123000,0,40,2024-10-14,,235,71%,active,LEED AP
+Stephen Washington,Project Manager,Project Management,salary,101000,0,40,2026-06-26,,190,75%,active,On leave Q2
+Harold Wallace,Project Manager,Project Management,salary,115000,0,40,2026-05-26,,220,77%,active,
+Benjamin Thomas,Project Manager,Project Management,salary,103000,0,40,2022-09-20,,195,74%,active,Eligible for bonus
+Alice Hall,Executive Assistant,Administration,salary,66000,0,40,2023-07-11,,0,,active,AIA member
+Stephanie Diaz,Visualization Specialist,BIM & Technology,salary,76000,0,40,2024-12-05,,150,73%,active,
+Rachel Butler,Interior Designer,Interiors,salary,69000,0,40,2023-11-12,,155,80%,active,Remote employee
+Michelle Hayes,Senior Project Manager,Project Management,salary,140000,0,40,2026-04-15,,260,72%,active,Eligible for bonus
+Kevin Sullivan,Project Architect,Design Studio A,salary,103000,0,40,2023-03-08,,215,81%,active,Promotion pending Q3
+Alice Martin,Receptionist/Admin Coord,Administration,salary,46000,0,40,2025-11-14,,0,,active,
+Jeremy Lewis,Project Architect,Design Studio A,salary,110000,0,40,2026-04-18,,210,82%,active,Eligible for bonus
+Noah Nguyen,Junior Architect,Design Studio B,salary,80000,0,40,2024-07-02,,135,79%,active,LEED AP
+Jessica Robinson,Director of PM,Project Management,salary,159000,0,40,2022-04-17,,270,65%,active,Licensed in 3 states
+Hannah Cook,Senior Project Architect,Design Studio B,salary,126000,0,40,2025-01-09,,225,78%,active,Part-time arrangement
+Adam Nguyen,Interior Designer,Interiors,salary,84000,0,40,2024-03-20,2026-06-10,145,81%,termed,Licensed in 3 states
+Angela Mitchell,Junior Architect,Design Studio B,salary,65000,0,40,2025-02-03,,135,79%,active,AIA member
+Peter Moore,Project Architect,Design Studio A,salary,107000,0,40,2026-05-13,,180,79%,active,
+Helen Peterson,Intern Architect,Design Studio A,salary,54000,0,40,2023-03-14,,110,82%,active,
+Jerry Murphy,Architectural Designer,Design Studio A,salary,63000,0,40,2025-01-12,2026-05-27,115,81%,termed,PMP certified
+Joan Mitchell,CAD Technician,BIM & Technology,hourly,0,37.19,40,2023-01-12,,105,76%,active,AIA member
+Amy Harris,Senior Project Architect,Design Studio A,salary,128000,0,40,2021-05-05,,255,74%,active,
+Victoria Roberts,Project Architect,Design Studio A,salary,110000,0,40,2022-11-09,,205,77%,active,Eligible for bonus
+John Anderson,Director of Design,Design Studio A,salary,185000,0,40,2025-05-14,,275,67%,active,On leave Q2
+Ella Nguyen,Project Manager,Project Management,salary,99000,0,40,2023-12-30,,195,73%,active,
+Gary Lee,Principal Architect,Executive,salary,180000,0,40,2022-07-01,,395,60%,active,PMP certified
+Frank Walker,Intern Architect,Design Studio C,salary,56000,0,40,2023-02-04,,115,75%,active,
+William Young,Architectural Designer,Design Studio A,salary,71000,0,40,2025-07-19,,115,80%,active,
+Kyle Thomas,Architect,Design Studio B,salary,91000,0,40,2024-02-06,,155,77%,active,
+Scott Sullivan,Architect,Design Studio B,salary,95000,0,40,2026-03-29,,165,83%,active,Part-time arrangement
+George Perez,Architect,Design Studio C,salary,92000,0,40,2025-01-02,2026-07-11,160,77%,termed,Promotion pending Q3
+Daniel Edwards,Interior Designer,Interiors,salary,71000,0,40,2022-10-28,,150,83%,active,Remote employee
+Ronald Campbell,Senior Project Architect,Design Studio C,salary,138000,0,40,2021-04-01,,235,70%,active,PMP certified
+Lucas Murphy,Architect,Design Studio A,salary,82000,0,40,2022-10-25,,175,84%,active,
+Nancy Ross,Intern Architect,Design Studio A,salary,64000,0,40,2026-06-21,,115,85%,active,PMP certified
+Kathleen Hughes,Architect,Design Studio A,salary,94000,0,40,2025-12-09,,155,75%,active,AIA member
+Megan Murphy,Project Architect,Design Studio B,salary,113000,0,40,2023-12-05,,190,80%,active,PMP certified
+Christine Ward,Architect,Design Studio B,salary,83000,0,40,2026-05-06,,180,80%,active,Remote employee
+Walter Stewart,Interior Designer,Interiors,salary,76000,0,40,2024-07-25,,140,77%,active,
+Raymond Scott,Senior Project Manager,Project Management,salary,127000,0,40,2026-02-28,,215,78%,active,Promotion pending Q3
+Jacqueline James,Intern Architect,Design Studio C,hourly,0,30.66,35,2021-05-09,,110,80%,active,AIA member
+Joseph Robinson,Associate Principal,Design Studio A,salary,168000,0,40,2024-08-03,,300,63%,active,Remote employee
+Hannah Collins,Project Architect,Design Studio A,salary,112000,0,40,2024-02-19,,195,84%,active,On leave Q2
+Douglas Graham,Senior Project Architect,Design Studio B,salary,117000,0,40,2022-12-16,,225,74%,active,
+Larry Patterson,Architect,Design Studio A,salary,88000,0,40,2025-04-06,2026-08-29,150,77%,termed,Licensed in 3 states
+Harold Anderson,Junior Architect,Design Studio A,salary,67000,0,40,2021-08-27,,115,84%,active,Part-time arrangement
+Ella Jackson,Senior Project Manager,Project Management,salary,138000,0,40,2024-03-18,2026-03-18,215,80%,termed,LEED AP
+Mason Lee,Architect,Design Studio C,salary,78000,0,40,2024-09-27,,180,84%,active,AIA member
+Brandon Morgan,Business Dev Coordinator,Marketing & BD,salary,73000,0,40,2023-11-21,,0,,active,On leave Q2
+Ronald Jackson,Project Architect,Design Studio A,salary,117000,0,40,2025-08-04,,190,81%,active,Eligible for bonus
+Joyce Baker,Junior Architect,Design Studio B,salary,66000,0,40,2021-07-23,,130,79%,active,Eligible for bonus
+Dorothy Bryant,Director of Marketing,Marketing & BD,salary,116000,0,40,2025-10-29,,0,,active,Promotion pending Q3
+Jeremy Richardson,Junior Architect,Design Studio C,salary,66000,0,40,2023-05-31,,135,82%,active,LEED AP
+Janet Lee,Principal Architect,Executive,salary,190000,0,40,2021-06-13,,330,56%,active,On leave Q2
+Jack Rodriguez,Project Architect,Design Studio B,salary,118000,0,40,2026-05-25,,175,77%,active,Promotion pending Q3
+Henry Gonzalez,Junior Architect,Design Studio B,salary,64000,0,40,2023-08-30,,120,83%,active,
+Jonathan Ward,Architect,Design Studio A,salary,94000,0,40,2023-01-11,,180,83%,active,Eligible for bonus
+Jacob Perez,Senior Project Architect,Design Studio A,salary,136000,0,40,2021-04-14,,245,80%,active,
+Judith Ross,Project Manager,Project Management,salary,103000,0,40,2024-07-14,2026-02-13,205,78%,termed,Eligible for bonus
+Maria Flores,Project Manager,Project Management,salary,115000,0,40,2026-06-05,,220,75%,active,PMP certified
+Christopher Ward,Principal Architect,Executive,salary,205000,0,40,2021-03-30,,390,52%,active,Promotion pending Q3
+Kevin Washington,Intern Architect,Design Studio A,salary,58000,0,40,2024-05-08,,95,77%,active,Licensed in 3 states
+Zachary Powell,Interior Designer,Interiors,salary,71000,0,40,2026-01-20,,150,80%,active,LEED AP
+Jessica Reed,Junior Architect,Design Studio B,salary,79000,0,40,2025-05-24,,135,80%,active,
+Richard Ellis,Architect,Design Studio C,salary,91000,0,40,2021-02-14,,165,75%,active,AIA member
+David Long,Junior Architect,Design Studio A,salary,65000,0,40,2026-04-17,,145,81%,active,Part-time arrangement
+Ashley Miller,Intern Architect,Design Studio B,hourly,0,40.67,32,2026-06-05,,115,78%,active,Part-time arrangement
+Scott Wallace,Visualization Specialist,BIM & Technology,salary,81000,0,40,2026-03-23,,130,73%,active,Part-time arrangement
+Barbara Nguyen,Architectural Intern,Interiors,salary,53000,0,40,2024-07-17,,90,76%,active,On leave Q2
+Hannah Ramirez,Junior Architect,Design Studio B,salary,71000,0,40,2026-01-14,,135,79%,active,LEED AP
+Dennis Turner,Project Architect,Design Studio B,salary,111000,0,40,2026-01-28,,175,84%,active,LEED AP
+Anna Ramirez,Junior Architect,Design Studio C,salary,76000,0,40,2026-10-22,,145,81%,planned,Promotion pending Q3
+Raymond Wright,BIM Manager,BIM & Technology,salary,97000,0,40,2025-10-24,2026-04-08,175,79%,termed,
+Elizabeth Smith,Senior Project Architect,Design Studio B,salary,118000,0,40,2026-01-14,,250,75%,active,Part-time arrangement
+Brenda Jordan,Project Architect,Design Studio B,salary,103000,0,40,2026-03-10,,190,83%,active,
+Zachary Garcia,BIM Coordinator,BIM & Technology,salary,86000,0,40,2025-01-09,,140,77%,active,Remote employee
+Stephen Peterson,Project Manager,Project Management,salary,103000,0,40,2022-12-28,,200,76%,active,LEED AP
+Douglas Murphy,Intern Architect,Design Studio A,salary,55000,0,40,2026-05-01,,100,82%,active,LEED AP
+Patricia King,Junior Architect,Design Studio A,salary,75000,0,40,2024-10-17,,140,76%,active,Promotion pending Q3
+Katherine Russell,Junior Architect,Design Studio C,salary,77000,0,40,2023-05-10,,135,77%,active,Part-time arrangement
+Scott Mcdonald,Senior Project Architect,Design Studio B,salary,136000,0,40,2025-07-11,,245,70%,active,PMP certified
+Gregory Bennett,Architect,Design Studio B,salary,91000,0,40,2021-10-23,,160,76%,active,Part-time arrangement
+Betty Perry,Junior Architect,Design Studio A,salary,71000,0,40,2024-10-09,,140,83%,active,Remote employee
+Cynthia Murphy,Architect,Design Studio C,salary,86000,0,40,2023-02-23,,180,84%,active,
+Gary Flores,Project Manager,Project Management,salary,98000,0,40,2021-02-05,,200,75%,active,Licensed in 3 states
+Evelyn Green,Senior Project Architect,Design Studio B,salary,128000,0,40,2022-06-28,,220,78%,active,Part-time arrangement
+Benjamin Ramirez,Associate Principal,Design Studio A,salary,154000,0,40,2026-04-13,,270,63%,active,LEED AP
+Gregory Sullivan,Operations Coordinator,Administration,salary,65000,0,40,2024-09-11,,0,,active,Licensed in 3 states
+Logan Cox,Associate Principal,Design Studio A,salary,160000,0,40,2024-08-09,,275,64%,active,Eligible for bonus
+Adam Thompson,Architect,Interiors,salary,84000,0,40,2023-01-18,,160,84%,active,Remote employee
+Carol Brooks,Operations Coordinator,Administration,salary,63000,0,40,2021-07-11,,0,,active,AIA member
+Karen Jackson,Architect,Interiors,salary,90000,0,40,2025-07-10,,175,83%,active,On leave Q2
+Linda Lopez,Junior Architect,Design Studio C,salary,67000,0,40,2025-11-17,,140,76%,active,Licensed in 3 states
+Barbara Wilson,Senior Project Manager,Project Management,salary,126000,0,40,2022-06-19,,250,82%,active,Part-time arrangement
+Charles Cox,Senior Project Architect,Design Studio B,salary,130000,0,40,2026-01-03,,250,82%,active,
+Elizabeth Ross,Controller,Finance,salary,111000,0,40,2025-11-05,,0,,active,
+Victoria Richardson,Junior Architect,Design Studio A,salary,63000,0,40,2024-08-31,2026-06-15,125,78%,termed,
+Aiden Nelson,Project Manager,Project Management,salary,112000,0,40,2024-02-08,,200,78%,active,Licensed in 3 states
+Margaret Bryant,Project Manager,Project Management,salary,109000,0,40,2024-04-20,,200,79%,active,
+Douglas Hernandez,Architect,Design Studio A,salary,91000,0,40,2024-12-04,,165,80%,active,On leave Q2
+Jose Harris,Senior Project Architect,Design Studio A,salary,134000,0,40,2025-01-21,,245,76%,active,On leave Q2
+Christopher Wallace,Senior Project Architect,Design Studio A,salary,132000,0,40,2025-05-03,2026-09-15,220,71%,termed,PMP certified
+Jeremy Martin,Senior Project Architect,Design Studio A,salary,129000,0,40,2026-03-15,,255,81%,active,PMP certified
+Richard Perry,Junior Architect,Design Studio C,salary,64000,0,40,2025-12-15,,125,77%,active,LEED AP
+Jerry Torres,Architectural Designer,Design Studio A,salary,71000,0,40,2021-04-18,,115,78%,active,PMP certified
+Kimberly Bryant,Junior Architect,Design Studio C,salary,64000,0,40,2023-03-21,,115,77%,active,Eligible for bonus
+Jason Morris,Project Architect,Design Studio B,salary,98000,0,40,2023-08-04,,180,75%,active,Remote employee
+James Scott,Junior Architect,Design Studio A,salary,69000,0,40,2024-04-15,,130,78%,active,
+Gary Myers,Senior Accountant,Finance,salary,90000,0,40,2024-08-07,,0,,active,On leave Q2
+Margaret Richardson,Architect,Design Studio B,salary,89000,0,40,2024-04-23,,155,84%,active,On leave Q2
+Angela Ellis,Architect,Interiors,salary,97000,0,40,2026-04-04,,185,84%,active,
+Nathan Anderson,Architect,Design Studio A,salary,87000,0,40,2022-04-24,,185,82%,active,Eligible for bonus
+Christopher Hernandez,Director of Design,Design Studio A,salary,166000,0,40,2026-03-20,,280,63%,active,LEED AP
+William Gonzales,Project Architect,Design Studio B,salary,99000,0,40,2022-12-18,,215,73%,active,AIA member
+Michael Taylor,Junior Architect,Design Studio A,salary,80000,0,40,2021-09-24,,130,83%,active,
+Aaron Cook,Project Manager,Project Management,salary,103000,0,40,2021-04-16,,210,73%,active,
+Ava Nelson,Senior Project Manager,Project Management,salary,132000,0,40,2026-03-13,,255,76%,active,AIA member
+Terry Lewis,Junior Architect,Design Studio B,salary,74000,0,40,2023-07-08,,145,81%,active,On leave Q2
+Samuel Sanders,Junior Architect,Design Studio B,salary,78000,0,40,2021-08-10,,145,76%,active,
+Robert Powell,Associate Principal,Design Studio B,salary,165000,0,40,2026-10-06,,295,68%,planned,PMP certified
+Brenda White,Architect,Design Studio A,salary,84000,0,40,2021-03-24,,180,80%,active,On leave Q2
+Jordan Morgan,Associate Principal,Design Studio A,salary,158000,0,40,2024-04-10,,290,63%,active,
+Jessica Lee,Accounting Specialist,Finance,salary,61000,0,40,2023-07-18,,0,,active,Licensed in 3 states
+Christine Adams,Architect,Design Studio A,salary,94000,0,40,2025-07-26,,155,80%,active,Promotion pending Q3
+Judith Allen,Architectural Intern,Interiors,hourly,0,50.4,40,2026-03-22,,100,85%,active,PMP certified
+Lisa Young,Project Manager,Project Management,salary,100000,0,40,2026-07-14,,190,83%,planned,Part-time arrangement
+Christine Diaz,Intern Architect,Design Studio B,salary,58000,0,40,2021-06-17,,95,75%,active,
+Alexander Hill,Project Architect,Design Studio A,salary,93000,0,40,2024-11-25,,210,77%,active,
+Eric Clark,Senior Project Architect,Design Studio B,salary,137000,0,40,2023-05-09,,245,77%,active,Remote employee
+Sarah Scott,Architect,Design Studio B,salary,84000,0,40,2023-02-25,,190,80%,active,
+Lauren Myers,Senior Project Architect,Design Studio A,salary,121000,0,40,2023-05-15,,225,76%,active,
+Stephen Taylor,Receptionist/Admin Coord,Administration,salary,55000,0,40,2022-02-07,,0,,active,PMP certified
+Kenneth Patterson,Managing Principal,Executive,salary,209000,0,40,2023-05-10,,405,54%,active,
+Mason Fisher,Junior Architect,Design Studio A,salary,74000,0,40,2022-04-29,,120,85%,active,Remote employee
