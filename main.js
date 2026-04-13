@@ -590,7 +590,10 @@ function openModalViewHistory(emp) {
     }).join('');
 
     html += `<div class="history-entry">
-      <div class="history-entry-date">${changedAt}</div>
+      <div class="history-entry-date" style="display:flex; justify-content:space-between; align-items:center;">
+        <span>${changedAt}</span>
+        ${i !== history.length - 1 ? `<button class="btn btn-ghost" style="padding:2px 6px; font-size:10px; color:var(--red);" onclick="revertHistory('${emp.id}', '${entry.changedAt}')">Revert</button>` : ''}
+      </div>
       <div class="history-entry-effective">Effective: ${effDisp}</div>
       ${entry.changeNote ? `<div class="history-entry-note">${escHtml(entry.changeNote)}</div>` : ''}
       ${fieldRows}
@@ -601,6 +604,30 @@ function openModalViewHistory(emp) {
 
   openModal('Change History', emp.name, html, null);
 }
+
+window.revertHistory = function(empId, changedAt) {
+  if (!confirm('Are you sure you want to revert this specific edit?')) return;
+  const emp = State.employees.find(e => e.id === empId);
+  if (!emp) return;
+
+  emp.compensationHistory = emp.compensationHistory.filter(e => e.changedAt !== changedAt);
+  
+  const latest = emp.compensationHistory[emp.compensationHistory.length - 1];
+  if (latest) {
+      emp.annualSalary    = latest.annualSalary;
+      emp.hourlyRate      = latest.hourlyRate;
+      emp.hoursPerWeek    = latest.hoursPerWeek;
+      emp.billRate        = latest.billRate;
+      emp.utilizationRate = latest.utilizationRate;
+      emp.employeeType    = latest.employeeType;
+      if (latest.vacationDays !== null && latest.vacationDays !== undefined) emp.vacationDays = latest.vacationDays;
+  }
+
+  saveState();
+  renderAll();
+  openModalViewHistory(emp);
+  toast('Edit reverted successfully.', 'success');
+};
 
 /**
  * Builds the full expense + revenue grid for all employees in a given year.
@@ -1796,6 +1823,25 @@ document.getElementById('btn-reset').addEventListener('click', () => {
   State.employees = JSON.parse(JSON.stringify(State.original));
   renderAll();
   toast('Reset to original data.', 'success');
+});
+
+document.getElementById('btn-clear-data')?.addEventListener('click', async () => {
+  if (!confirm('Are you sure you want to delete ALL employees? This cannot be undone.')) return;
+  const backup = [...State.employees];
+  State.employees = [];
+  
+  if (supabase) {
+    const ids = backup.map(e => e.id);
+    if (ids.length > 0) {
+      const { error } = await supabase.from('staffing_employees').delete().in('id', ids);
+      if (error) console.error('Supabase Delete Error:', error);
+    }
+  } else {
+    localStorage.removeItem('staffing_scenario_active');
+  }
+  
+  renderAll();
+  toast('Dataset cleared', 'success');
 });
 
 document.getElementById('budget-year').addEventListener('change', e => {
