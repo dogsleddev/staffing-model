@@ -7,34 +7,43 @@
   <meta name="description" content="Dynamic staffing budget model: upload an employee dataset, calculate monthly payroll expenses, and run salary scenarios across a fiscal year." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT@0,9..144,300..900,0..100;1,9..144,300..900,0..100&family=Geist:wght@300..700&family=Geist+Mono:wght@400..600&display=swap" rel="stylesheet">
   <style>
     /* ─────────────── DESIGN TOKENS ─────────────── */
     :root {
-      --bg:          #0b0f19;
-      --bg2:         #111827;
-      --surface:     #1a2236;
-      --surface2:    #1f2a42;
-      --border:      #2a3a55;
-      --border-soft: #1e2d45;
-      --accent:      #6366f1;
-      --accent-soft: rgba(99,102,241,0.15);
-      --accent-glow: rgba(99,102,241,0.35);
-      --green:       #10b981;
-      --green-soft:  rgba(16,185,129,0.15);
-      --red:         #ef4444;
-      --red-soft:    rgba(239,68,68,0.12);
-      --amber:       #f59e0b;
-      --amber-soft:  rgba(245,158,11,0.15);
-      --sky:         #38bdf8;
-      --sky-soft:    rgba(56,189,248,0.12);
-      --text:        #e2e8f0;
-      --text-muted:  #64748b;
-      --text-dim:    #94a3b8;
+      /* === BRAND TOKENS === */
+      --ember:    #E66A3C;
+      --aurora:   #6FE0B4;
+      --frost:    #8FB8D6;
+      --serif: "Fraunces", ui-serif, Georgia, serif;
+      --sans:  "Geist", -apple-system, "Helvetica Neue", sans-serif;
+      --mono:  "Geist Mono", "JetBrains Mono", ui-monospace, monospace;
+
+      /* Mapped to light theme */
+      --bg:          #F2EAD8;
+      --bg2:         #F7F0DE;
+      --surface:     #EDE3CD;
+      --surface2:    #E9DFC6;
+      --border:      rgba(14,17,22,0.24);
+      --border-soft: rgba(14,17,22,0.14);
+      --accent:      var(--ember);
+      --accent-soft: rgba(230,106,60,0.15);
+      --accent-glow: rgba(230,106,60,0.35);
+      --green:       var(--aurora);
+      --green-soft:  rgba(111,224,180,0.15);
+      --red:         #C25431;
+      --red-soft:    rgba(194,84,49,0.12);
+      --amber:       #E66A3C;
+      --amber-soft:  rgba(230,106,60,0.15);
+      --sky:         var(--frost);
+      --sky-soft:    rgba(143,184,214,0.12);
+      --text:        #0E1116;
+      --text-muted:  rgba(14,17,22,0.62);
+      --text-dim:    rgba(14,17,22,0.42);
       --radius:      10px;
       --radius-sm:   6px;
-      --shadow:      0 4px 24px rgba(0,0,0,0.4);
-      --shadow-sm:   0 2px 8px rgba(0,0,0,0.3);
+      --shadow:      0 4px 24px rgba(0,0,0,0.1);
+      --shadow-sm:   0 2px 8px rgba(0,0,0,0.05);
     }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -42,7 +51,7 @@
     html { scroll-behavior: smooth; }
 
     body {
-      font-family: 'Inter', system-ui, sans-serif;
+      font-family: var(--sans);
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
@@ -58,7 +67,7 @@
 
     /* ─────────────── HEADER ─────────────── */
     #app-header {
-      background: linear-gradient(135deg, #0f172a 0%, #1a1f35 100%);
+      background: var(--bg2);
       border-bottom: 1px solid var(--border);
       padding: 0 24px;
       height: 60px;
@@ -115,7 +124,7 @@
       background: var(--surface);
       border: 1px solid var(--border);
       color: var(--text);
-      font-family: 'Inter', sans-serif;
+      font-family: var(--sans);
       font-size: 13px;
       font-weight: 500;
       padding: 4px 10px;
@@ -140,7 +149,7 @@
       gap: 6px;
       padding: 6px 14px;
       border-radius: var(--radius-sm);
-      font-family: 'Inter', sans-serif;
+      font-family: var(--sans);
       font-size: 12px;
       font-weight: 500;
       cursor: pointer;
@@ -207,7 +216,7 @@
       background: transparent;
       border: none;
       color: var(--text);
-      font-family: 'Inter', sans-serif;
+      font-family: var(--sans);
       font-size: 13px;
       font-weight: 600;
       outline: none;
@@ -584,7 +593,7 @@
       border: 1px solid var(--border);
       border-radius: var(--radius-sm);
       color: var(--text);
-      font-family: 'Inter', sans-serif;
+      font-family: var(--sans);
       font-size: 13px;
       padding: 8px 12px;
       outline: none;
